@@ -83,7 +83,7 @@ const Home = () => {
                 <th>ids</th>
                 <th>Name</th>
                 <th>Price</th>
-                <th>remove</th>
+                <th>remo</th>
                 <th>edit</th>
             </tr>
             {data.map((val,index)=>{

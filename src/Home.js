@@ -81,8 +81,8 @@ const Home = () => {
         <table border="5px" cellPadding="5px" cellSpacing="5px">
             <tr>
                 <th>ids</th>
-                <th>Name</th>
-                <th>Price</th>
+                <th>Names</th>
+                <th>Prices</th>
                 <th>remove</th>
                 <th>edit</th>
             </tr>

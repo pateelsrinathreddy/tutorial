@@ -80,11 +80,11 @@ const Home = () => {
         
         <table border="5px" cellPadding="5px" cellSpacing="5px">
             <tr>
-                <th>ids</th>
-                <th>Names</th>
-                <th>Prices</th>
-                <th>remove</th>
-                <th>edit</th>
+                <th>IDS</th>
+                <th>NAME</th>
+                <th>PRICE</th>
+                <th>REMOVE</th>
+                <th>EDIT</th>
             </tr>
             {data.map((val,index)=>{
                 return (
